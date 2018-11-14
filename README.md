@@ -1,3 +1,4 @@
+[![Build Status](https://bluescion.visualstudio.com/MyFirstProject/_apis/build/status/MyFirstProject-CI)](https://bluescion.visualstudio.com/MyFirstProject/_build/latest?definitionId=1)
 
 # Contributing
 
